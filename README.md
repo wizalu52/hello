@@ -1,2 +1,2 @@
-console.log("hello nie1231x")
+console.log("hello")
 log in useMemo initial
